@@ -155,10 +155,24 @@ The workflow file [`.github/workflows/regression-tests.yml`](file:///.github/wor
 
 ---
 
-## 💼 Resume & Interview Summary
+## 💼 Resume Highlights
 
-If asked about this project in an interview:
-- **Architecture**: *"I designed a modular test framework using the Page Object Model in Playwright Python to decouple UI locators from test logic, which reduced maintenance overhead when selectors changed."*
-- **Coverage**: *"I implemented positive flows for happy-path conversions as well as parameterized negative tests for authentication and form validation."*
-- **Full-Stack QA**: *"I integrated API assertions using `requests` and database checks with SQL queries to verify data persistence all the way from the UI down to the database."*
-- **Continuous Testing**: *"I automated test runs in GitHub Actions with self-contained HTML reporting and automatic failure artifact capture for every pull request."*
+- Built an end-to-end web application test automation framework using Playwright, Python, and Pytest following the Page Object Model (POM).
+- Automated functional and regression scenarios covering authentication, navigation, product sorting, cart operations, and checkout workflows.
+- Implemented REST API and SQL database validation to verify API responses, data persistence, and backend state transitions.
+- Integrated automated regression testing with GitHub Actions, including HTML reports and failure screenshots.
+
+## 🔍 Key Engineering Practices
+
+- Page Object Model (POM)
+- Reusable Pytest fixtures
+- Positive and negative test scenarios
+- API response validation
+- SQL backend validation
+- Test parameterization
+- CI/CD automation
+- Failure screenshot capture
+
+  ## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
