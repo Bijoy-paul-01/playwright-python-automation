@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# Pytest / Reports
+.pytest_cache/
+reports/
+report.html
+screenshots/
+test-results/
+
+# SQLite databases
+*.db
+*.sqlite3
+
+# OS / IDE
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
