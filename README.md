@@ -1,5 +1,12 @@
 # Web Application Test Automation Framework
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-v1.40%2B-2EAD33?logo=playwright&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-26%20Passed-0A9EDC?logo=pytest&logoColor=white)
+![CI/CD](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?logo=github-actions&logoColor=white)
+![API Testing](https://img.shields.io/badge/REST%20API-Postman%20%26%20Requests-FF6C37?logo=postman&logoColor=white)
+![Database](https://img.shields.io/badge/Database-SQLite%20Validation-003B57?logo=sqlite&logoColor=white)
+
 An end-to-end automated testing framework built with **Python**, **Playwright**, **Pytest**, **Requests**, and **SQLite**, integrated with **Postman** and **GitHub Actions** for CI/CD continuous regression testing.
 
 ---
